@@ -4,7 +4,7 @@ If you ever forget this command, you can always use this as a reference guide.
 
 |Action |Command |
 |---|---|
-| Clone a repository|`git clone <name of repository` |
+| Clone a repository|`git clone <name of repository>` |
 | Create a new repository in the folder you're in |`git init .` |
 | Create a new repository in a new folder |`git init <name of folder>` |
 | Tell Git to save changes you have made |`git commit .`(will add all files) / `git commit <name of file or folder>` |
