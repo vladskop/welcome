@@ -13,7 +13,7 @@ If you ever forget this command, you can always use this as a reference guide.
 | To remove a file from being tracked |`git rm <name of file>`|
 | To stop a file from being tracked |Create `.gitignore` file and add file/directory to that|
 
-[ ] Please add an 'X' to this box to show you have read this.
+[X] Please add an 'X' to this box to show you have read this.
 
 **BEFORE MOVING ON TO THE SECTION BELOW, PUSH YOUR CHANGES!**
 
